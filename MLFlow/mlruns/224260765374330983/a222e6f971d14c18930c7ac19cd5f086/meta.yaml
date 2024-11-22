@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/224260765374330983/a222e6f971d14c18930c7ac19cd5f086/artifacts
+end_time: 1732252457561
+entry_point_name: ''
+experiment_id: '224260765374330983'
+lifecycle_stage: active
+run_id: a222e6f971d14c18930c7ac19cd5f086
+run_name: gifted-shark-96
+run_uuid: a222e6f971d14c18930c7ac19cd5f086
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732252450483
+status: 3
+tags: []
+user_id: Paarth

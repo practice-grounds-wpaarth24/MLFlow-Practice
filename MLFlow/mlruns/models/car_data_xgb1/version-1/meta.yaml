@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1732252457536
+current_stage: None
+description: ''
+last_updated_timestamp: 1732252457536
+name: car_data_xgb1
+run_id: a222e6f971d14c18930c7ac19cd5f086
+run_link: ''
+source: mlflow-artifacts:/224260765374330983/a222e6f971d14c18930c7ac19cd5f086/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/224260765374330983/a222e6f971d14c18930c7ac19cd5f086/artifacts/model
+user_id: null
+version: 1

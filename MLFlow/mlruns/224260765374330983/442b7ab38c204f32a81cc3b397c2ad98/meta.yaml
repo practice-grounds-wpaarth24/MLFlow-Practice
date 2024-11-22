@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/224260765374330983/442b7ab38c204f32a81cc3b397c2ad98/artifacts
+end_time: 1732252586224
+entry_point_name: ''
+experiment_id: '224260765374330983'
+lifecycle_stage: active
+run_id: 442b7ab38c204f32a81cc3b397c2ad98
+run_name: blushing-hen-959
+run_uuid: 442b7ab38c204f32a81cc3b397c2ad98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732252580447
+status: 3
+tags: []
+user_id: Paarth

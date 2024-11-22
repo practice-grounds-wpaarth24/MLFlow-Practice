@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/224260765374330983
+creation_time: 1732252450447
+experiment_id: '224260765374330983'
+last_update_time: 1732252450447
+lifecycle_stage: active
+name: car_data_xgb1
